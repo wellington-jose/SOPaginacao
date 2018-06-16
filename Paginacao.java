@@ -9,7 +9,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author wellington
+ * @author wellington laurentino
  */
 public class Paginacao {
     
